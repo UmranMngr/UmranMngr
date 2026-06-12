@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ümran Mıngır
+# Hi, I'm Ümran Mıngır
 
 ### Computer Engineering Student | Mobile App & Game Developer
 
