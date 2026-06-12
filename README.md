@@ -11,7 +11,7 @@ I am a passionate fourth-year Computer Engineering student focused on building s
 
 ---
 
-### 💻 Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@ I am a passionate fourth-year Computer Engineering student focused on building s
 
 ---
 
-### 📬 Connect with me:
+###  Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umran-mingır)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mngrumran@gmail.com)
