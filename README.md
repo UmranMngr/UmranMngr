@@ -4,10 +4,10 @@
 
 I am a passionate fourth-year Computer Engineering student focused on building scalable, modular solutions spanning cross-platform mobile applications, interactive 3D systems, and machine learning models. 
 
-- 🚀 Currently exploring international Erasmus+ internship opportunities.
-- 📱 Developing cross-platform mobile applications using **Flutter & Dart**.
-- 🎮 Crafting immersive 3D experiences using **Unity & C#**.
-- 🧠 Implementing Natural Language Processing (NLP) solutions in **Python**.
+-  Currently exploring international Erasmus+ internship opportunities.
+-  Developing cross-platform mobile applications using **Flutter & Dart**.
+-  Crafting immersive 3D experiences using **Unity & C#**.
+-  Implementing Natural Language Processing (NLP) solutions in **Python**.
 
 ---
 
