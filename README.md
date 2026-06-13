@@ -2,13 +2,13 @@
 
 ### Computer Engineering Student | Mobile App & Game Developer
 
-I am a passionate fourth-year Computer Engineering student focused on building scalable, modular solutions spanning cross-platform mobile applications, interactive 3D systems, and machine learning models. 
+I am a passionate fourth-year Computer Engineering student focused on building scalable, modular solutions spanning cross-platform mobile applications, interactive 3D systems, and machine learning models.
 
--  Currently exploring international Erasmus+ internship opportunities.
--  Developing cross-platform mobile applications using **Flutter & Dart**.
--  Crafting immersive 3D experiences using **Unity & C#**.
--  Implementing Natural Language Processing (NLP) solutions in **Python**.
-
+Currently exploring international Erasmus+ internship opportunities.
+Developing cross-platform mobile applications using Flutter & Dart.
+Crafting immersive 3D experiences using Unity & C#.
+Implementing Natural Language Processing (NLP) solutions in Python.
+Programming in Java, JavaScript, and C++.
 ---
 
 ###  Languages and Tools
@@ -17,9 +17,12 @@ I am a passionate fourth-year Computer Engineering student focused on building s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+
+  <!-- ADDED -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
