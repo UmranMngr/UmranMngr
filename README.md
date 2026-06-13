@@ -3,14 +3,12 @@
 ### Computer Engineering Student | Mobile App & Game Developer
 
 I am a passionate fourth-year Computer Engineering student focused on building scalable, modular solutions spanning cross-platform mobile applications, interactive 3D systems, and machine learning models.
-
 <p>
 Developing cross-platform mobile applications using Flutter & Dart.<br>
 Crafting immersive 3D experiences using Unity & C#.<br>
 Implementing Natural Language Processing (NLP) solutions in Python.<br>
 Programming in Java, JavaScript, and C++.
 </p>
----
 
 ###  Languages and Tools
 
